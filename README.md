@@ -9,14 +9,10 @@
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1127">Уровни языков программирования.</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы. Архитектура JVM</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1422">Write once, run anywhere(WORA).</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t="2517">Методы вывода на консоль. print() b println()</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы.</a></li>
+<li><a href="https://youtu.be/TQ_vwm4h0ro?t="2517">Методы вывода на консоль. print() и println()</a></li>
+<li><a href="https://youtu.be/TQ_vwm4h0ro?t=2808">Метод main()</a></li>
+  
+<b><a href="https://www.youtube.com/watch?v=TQ_vwm4h0ro">lesson 2</a></b> | Доп. материал по теме
 
 
 
