@@ -17,7 +17,7 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=859">Типы данных в Java</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
-<li><a href="https://youtu.be/BJ3anfWOWR4?t=1419">Выделение памяти для примитивных типов данных</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=1419">Выделение памяти для примитивных типов данных и диапазон хранимых значений</a></li>
 
 
 
