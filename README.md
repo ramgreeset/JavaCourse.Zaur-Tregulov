@@ -19,7 +19,8 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1419">Выделение памяти для примитивных типов данных и диапазон хранимых значений</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1643">Особенности объявления переменных типов:long, float, char</a></li>
-<li><a href="https://youtu.be/BJ3anfWOWR4?t=3002">Системы счисления</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=3004">Системы счисления</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=3300">Объявление переменных в различных системах счисления</a></li>
 
 
 
