@@ -14,7 +14,8 @@
 <b><a href="https://www.youtube.com/watch?v=BJ3anfWOWR4">lesson 2</a></b>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=572">Определение типов данных и переменных</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=636">Составные части переменных</a></li>
-  <li><a href="https://youtu.be/BJ3anfWOWR4?t=859">Типы данных в Java</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=859">Типы данных в Java</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
 
 
 
