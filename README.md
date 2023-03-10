@@ -23,6 +23,11 @@
 <b><a href="https://www.youtube.com/watch?v=sfPjKw4f_1Q">lesson 3</a></b>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=448">Объявление переменных</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=627">Типы операторов</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=871">Деление в Java</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=871">Оператор остатка от деления</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=1293">Инкремент и Декремент</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=1293">Операторы присваивания</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=2484">Множественное присваивание</a></li>
 
 
 
