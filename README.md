@@ -22,6 +22,7 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3004">Системы счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3300">Объявление переменных в различных системах счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3563">Специальный символ underscore </a></li>
+<b><a href="https://www.youtube.com/watch?v=sfPjKw4f_1Q">lesson 3</a></b>
 
 
 
