@@ -10,9 +10,9 @@
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1179">Трансляторы. Архитектура JVM</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1422">Write once, run anywhere(WORA).</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t="2517">Методы вывода на консоль. print() и println()</a></li>
-<li><a href="https://youtu.be/TQ_vwm4h0ro?t=2808">Метод main()</a></li>
-  
+<li><a href="https://youtu.be/TQ_vwm4h0ro?t=2808">Метод main()</a></li>  
 <b><a href="https://www.youtube.com/watch?v=BJ3anfWOWR4">lesson 2</a></b>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=572">Определение типов данных и переменных</a></li>
 
 
 
