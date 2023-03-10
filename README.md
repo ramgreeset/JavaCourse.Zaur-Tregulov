@@ -12,7 +12,7 @@
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t="2517">Методы вывода на консоль. print() и println()</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=2808">Метод main()</a></li>
   
-<b><a href="https://www.youtube.com/watch?v=TQ_vwm4h0ro">lesson 2</a></b>
+<b><a href="https://www.youtube.com/watch?v=BJ3anfWOWR4">lesson 2</a></b>
 
 
 
