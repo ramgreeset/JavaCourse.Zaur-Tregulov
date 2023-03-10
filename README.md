@@ -21,6 +21,7 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1643">Особенности объявления переменных типов:long, float, char</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3004">Системы счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3300">Объявление переменных в различных системах счисления</a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=3563">Специальный символ _ </a></li>
 
 
 
