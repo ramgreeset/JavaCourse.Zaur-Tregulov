@@ -15,14 +15,14 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=636">Составные части переменных</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=859">Типы данных в Java</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
-<li><a href="https://youtu.be/BJ3anfWOWR4?t=1565">Типы данных по умолчанию</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1419">Выделение памяти для примитивных типов данных и диапазон хранимых значений</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=1643">Особенности объявления переменных типов:long, float, char</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3004">Системы счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3300">Объявление переменных в различных системах счисления</a></li>
-<li><a href="https://youtu.be/BJ3anfWOWR4?t=3563">Специальный символ underscore </a></li>
+<li><a href="https://youtu.be/BJ3anfWOWR4?t=3563">Специальный символ underscore</a></li>
 <b><a href="https://www.youtube.com/watch?v=sfPjKw4f_1Q">lesson 3</a></b>
-
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=448">Объявление переменных</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=627">Типы операторов</a></li>
 
 
 
