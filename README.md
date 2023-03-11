@@ -30,7 +30,7 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=2484">Множественное присваивание</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=2994">Операторы сравнения</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=3453">Логические операторы</a></li>
-<li><a href="https://youtu.be/sfPjKw4f_1Q?t=4162">short circuit</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=4162">Short circuit</a></li>
 
 
 
