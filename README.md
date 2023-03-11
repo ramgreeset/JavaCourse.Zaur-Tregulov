@@ -32,8 +32,8 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=3453">Логические и условные операторы</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=4162">Short circuit</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=4473">Логическое "НЕ"</a></li>
-<li><a href="https://youtu.be/sfPjKw4f_1Q?t=5135">"Bitwise операторы (побитовые)"</a></li>
-<li><a href="https://youtu.be/sfPjKw4f_1Q?t=5944">"Приоритет операций"</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=5135">Bitwise операторы (побитовые)</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=5944">Приоритет операций</a></li>
 
 
 
