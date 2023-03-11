@@ -35,6 +35,7 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5135">Bitwise операторы (побитовые)</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5944">Приоритет операций</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=6190">Использование char в арифметических операциях</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=6587">Домашнее задание</a></li>
 
 
 
