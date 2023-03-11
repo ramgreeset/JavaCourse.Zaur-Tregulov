@@ -38,7 +38,8 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=6587">Домашнее задание</a></li>
 <b><a href="https://www.youtube.com/watch?v=3CVj_iBwaqI">lesson 4</a></b>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=405">Классы и объекты</a></li>
-
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=814">Декомпозиция и реиспользование</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=951">Структура Java класса</a></li>
 
 
 
