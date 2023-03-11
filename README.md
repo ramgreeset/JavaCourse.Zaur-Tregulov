@@ -29,6 +29,7 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=1293">Операторы присваивания</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=2484">Множественное присваивание</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=2994">Операторы сравнения</a></li>
+<li><a href="https://youtu.be/sfPjKw4f_1Q?t=3453">Логические операторы</a></li>
 
 
 
