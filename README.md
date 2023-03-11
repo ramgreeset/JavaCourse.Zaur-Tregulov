@@ -40,6 +40,7 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=405">Классы и объекты</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=814">Декомпозиция и реиспользование</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=951">Структура Java класса</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=1284">Правила объявления классов</a></li>
 
 
 
