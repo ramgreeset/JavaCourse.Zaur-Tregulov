@@ -42,6 +42,7 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=951">Структура Java класса</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=1284">Правила объявления классов</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=2080">Знакомство с ссылочными типами</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=2192">Создание объекта внутри класса</a></li>
 
 
 
