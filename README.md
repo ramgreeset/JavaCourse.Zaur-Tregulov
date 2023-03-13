@@ -1,6 +1,6 @@
 <h1><a href="https://www.youtube.com/playlist?list=PLqj7-hRTFl_rqruGcnd2V8SPbY0j9DzT5">JavaCourse.Zaur-Tregulov</h1>
 <ol>
-<b><a href="https://www.youtube.com/watch?v=TQ_vwm4h0ro">lesson 1</a></b>
+<b><a href="https://www.youtube.com/watch?v=TQ_vwm4h0ro">1.Знакомство с Java. Методы print и println</a></b>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=380">Редакции Java SE, EE, ME</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=760">Что такое язык программирования.</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=823">О трех парадигмах программирвания.</a></li>
@@ -10,7 +10,7 @@
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=1422">Write once, run anywhere(WORA).</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t="2517">Методы вывода на консоль. print() и println()</a></li>
 <li><a href="https://youtu.be/TQ_vwm4h0ro?t=2808">Метод main()</a></li>  
-<b><a href="https://www.youtube.com/watch?v=BJ3anfWOWR4">lesson 2</a></b>
+<b><a href="https://www.youtube.com/watch?v=BJ3anfWOWR4">2.Примитивные типы данных. Понятие «переменная». Системы счисления</a></b>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=572">Определение типов данных и переменных</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=636">Составные части переменных</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=859">Типы данных в Java</a></li>
@@ -20,7 +20,7 @@
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3004">Системы счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3300">Объявление переменных в различных системах счисления</a></li>
 <li><a href="https://youtu.be/BJ3anfWOWR4?t=3563">Специальный символ underscore</a></li>
-<b><a href="https://www.youtube.com/watch?v=sfPjKw4f_1Q">lesson 3</a></b>
+<b><a href="https://www.youtube.com/watch?v=sfPjKw4f_1Q">3.Арифметические и логические операции. Операции сравнения и присваивания</a></b>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=448">Объявление переменных</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=627">Типы операторов</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=871">Деление в Java</a></li>
@@ -35,7 +35,7 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5135">Bitwise операторы (побитовые)</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5944">Приоритет операций</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=6190">Использование char в арифметических операциях</a></li>
-<b><a href="https://www.youtube.com/watch?v=3CVj_iBwaqI">lesson 4</a></b>
+<b><a href="https://www.youtube.com/watch?v=3CVj_iBwaqI">4.Понятия «класс» и «объект». Знакомство со ссылочными типами данных</a></b>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=405">Классы и объекты</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=814">Декомпозиция и реиспользование</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=951">Структура Java класса</a></li>
@@ -48,7 +48,7 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=3599">Обращение к Instance variable из второго класса</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=4917">Класс String</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=5167">Конкатинация</a></li>
-<b><a href="https://www.youtube.com/watch?v=V6zAk_fFpSM">5. Создание объектов. Понятие «конструктор». Объявление и вызов методов</a></b>
+<b><a href="https://www.youtube.com/watch?v=V6zAk_fFpSM">5.Создание объектов. Понятие «конструктор». Объявление и вызов методов</a></b>
 <li><a href="https://youtu.be/V6zAk_fFpSM?t=496">Метод, input/output, параметры метода</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=702">Структура метода</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1100">Создание метода</a></li>
