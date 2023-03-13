@@ -59,6 +59,7 @@
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2622">Constructor и наименование класса</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2926">Типы конструкторов</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=3107">Пример user defined конструктора</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=4024">Чем отличаются методы от конструктора</a></li>
   
 
 
