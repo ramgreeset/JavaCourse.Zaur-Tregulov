@@ -35,7 +35,6 @@
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5135">Bitwise операторы (побитовые)</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=5944">Приоритет операций</a></li>
 <li><a href="https://youtu.be/sfPjKw4f_1Q?t=6190">Использование char в арифметических операциях</a></li>
-<li><a href="https://youtu.be/sfPjKw4f_1Q?t=6587">Домашнее задание</a></li>
 <b><a href="https://www.youtube.com/watch?v=3CVj_iBwaqI">lesson 4</a></b>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=405">Классы и объекты</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=814">Декомпозиция и реиспользование</a></li>
@@ -48,6 +47,9 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=3455">Instance variable</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=3599">Обращение к Instance variable из второго класса</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=4917">Класс String</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=5167">Конкатинация</a></li>
+<b><a href="https://www.youtube.com/watch?v=V6zAk_fFpSM">5. Создание объектов. Понятие «конструктор». Объявление и вызов методов</a></b>
+  
 
 
 
