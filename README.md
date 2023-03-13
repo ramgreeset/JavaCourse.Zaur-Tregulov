@@ -45,6 +45,8 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=2192">Создание объекта внутри класса</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=2528">Разница между примитивными и ссылочными типами данных</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=3193">Дефолтные значения типов данных</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=3455">Instance variable</a></li>
+<li><a href="https://youtu.be/3CVj_iBwaqI?t=3599">Обращение к Instance variable из второго класса</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=4917">Класс String</a></li>
 
 
