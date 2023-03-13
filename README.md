@@ -53,6 +53,8 @@
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=702">Структура метода</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1100">Создание метода</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1244">Вызов метода</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1848">Метод void</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2197">Вызов метода внутри метода</a></li>
   
 
 
