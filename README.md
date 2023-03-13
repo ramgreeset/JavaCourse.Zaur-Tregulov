@@ -56,6 +56,7 @@
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1848">Метод void</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2197">Вызов метода внутри метода</a></li>
 <li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2458">LIFO</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=2622">Constructor</a></li>
   
 
 
