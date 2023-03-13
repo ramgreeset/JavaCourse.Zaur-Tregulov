@@ -49,7 +49,10 @@
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=4917">Класс String</a></li>
 <li><a href="https://youtu.be/3CVj_iBwaqI?t=5167">Конкатинация</a></li>
 <b><a href="https://www.youtube.com/watch?v=V6zAk_fFpSM">5. Создание объектов. Понятие «конструктор». Объявление и вызов методов</a></b>
-<li><a href="https://youtu.be/V6zAk_fFpSM?t=496">Метод</a></li>
+<li><a href="https://youtu.be/V6zAk_fFpSM?t=496">Метод, input/output, параметры метода</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=702">Структура метода</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1100">Создание метода</a></li>
+<li><a href="https://youtube.com/watch?v=V6zAk_fFpSM&si=EnSIkaIECMiOmarE&t=1244">Вызов метода</a></li>
   
 
 
